@@ -156,11 +156,11 @@ body{
     color:  hsl(230, 18%, 55%);
 }
 @media screen and (min-width:768px) {
-    body{
+      body{
+        background-color: hsl(229, 57%, 11%);
         background-image: url(../images/bg-desktop.png);
-       background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: bottom;
         
 
     }
